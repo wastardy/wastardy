@@ -1,7 +1,7 @@
 <h1 align="center">Sup 👋, I'm Andrii Kononenko (wastardy)</h1>
 <h3 align="center">I'm a highly motivated and ambitious student with a passion for backend and full-stack development. Always striving to overcome myself, I eagerly explore new technologies and sharpen my skills every day. No challenge is too big, no bug too stubborn — I see every obstacle as a chance to improve. Whether it's building robust database, optimising APIs, or discovering something new in the world of programming. I'm always ready to level up. Sooo.. let’s build something amazing!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wastardy" alt="wastardy" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wastardy" alt="wastardy" /></a> </p> -->
 
 - 🌱 I’m currently diving deeper into Node.js, refining my understanding of its core concepts and optimising backend performance.
 
@@ -52,4 +52,9 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wastardy&show_icons=true&locale=en" alt="wastardy" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wastardy&" alt="wastardy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wastardy" alt="wastardy" /></p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wastardy&bg_color=0d1117&color=ffffff&line=5bcdec&point=f4a261&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p> -->
+

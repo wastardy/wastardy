@@ -19,7 +19,7 @@
     href="https://linkedin.com/in/andrii kononenko/" 
     target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="andrii kononenko" 
+    alt="andrii kononenko linkedin" 
     height="30" 
     width="40" 
 /></a>
@@ -28,15 +28,16 @@
     target="blank">
     <img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-    alt="wastardy" 
+    alt="wastardy's instagram" 
     height="30" 
     width="40" 
 /></a>
 <a 
-    href="https://t.me/твій_юзернейм" target="blank">
+    href="https://t.me/httpflowerPot" 
+    target="blank">
     <img align="center" 
     src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
-    alt="telegram" 
+    alt="wastardy's telegram" 
     height="30" 
     width="40" />
 </a>
